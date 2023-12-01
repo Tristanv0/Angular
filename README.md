@@ -1,5 +1,7 @@
 # Angular
 
+This project is hosted using  GitHub Pages! View the webpage here -> https://tristanv0.github.io/AngularFramework/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
 ## How To Use
