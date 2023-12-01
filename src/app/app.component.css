@@ -1,0 +1,21 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.angularlogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+app-otherproblems {
+    text-align: center;
+}
